@@ -16,7 +16,7 @@ REQUIRES = [
 setup(
     name=NAME,
     version=VERSION,
-    description="PHP Client library for interacting with EnZona's QR API.",
+    description="Python Client library for interacting with EnZona's QR API.",
     author_email="",
     url="",
     keywords=["Swagger", "QRAPI"],
