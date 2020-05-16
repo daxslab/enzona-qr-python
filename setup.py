@@ -2,7 +2,7 @@
 
 from setuptools import setup, find_packages
 
-NAME = "enzona_qr"
+NAME = "enzona-qr"
 VERSION = "0.0.1"
 
 REQUIRES = [
@@ -24,6 +24,6 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     long_description="""\
-    PHP Client library for interacting with EnZona's QR API.
+    Python Client library for interacting with EnZona's QR API.
     """
 )
